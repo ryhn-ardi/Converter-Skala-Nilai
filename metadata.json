@@ -1,0 +1,6 @@
+{
+  "name": "Konverter Skala Nilai",
+  "description": "Aplikasi praktis untuk menghitung ulang (rescale) skala nilai ujian/tugas asli ke skala nilai baru secara dinamis maupun massal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
